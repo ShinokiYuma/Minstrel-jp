@@ -23,5 +23,3 @@ if __name__ == "__main__":
         pass
 
 
-# テストです
-# Github連携しました

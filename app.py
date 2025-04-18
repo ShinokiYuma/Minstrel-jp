@@ -21,3 +21,7 @@ if __name__ == "__main__":
     elif state.page == "test":
         test()
         pass
+
+
+# テストです
+# Github連携しました

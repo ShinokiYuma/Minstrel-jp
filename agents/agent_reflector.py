@@ -2,13 +2,6 @@ from models.openai import Generator
 import streamlit as st
 state = st.session_state ##stateをインポート
 
-## Genaratorクラスの初期設定
-# generator = Generator( ## openai.pyの初期値を定義してる
-#     api_key = "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",
-#     base_url = "https://api.openai.com/v1"
-# )
-# generator.set_model("gpt-4o")
-
 
 ## Reflectorエージェント
 class Reflector:

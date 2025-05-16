@@ -25,7 +25,7 @@
 
 3.  OpenAI APIキーを設定します。
 
-    Minstrel は OpenAI の GPT-4o モデルを使用します。OpenAI の API キーを取得し、環境変数に設定してください。
+    Minstrel-JP は OpenAI の GPT-4o モデルを使用します。OpenAI の API キーを取得し、環境変数に設定してください。
 
     ```bash
     export OPENAI_API_KEY="OPENAI_API_KEY"
@@ -68,3 +68,5 @@ Minstrel-JPは、以下のAIエージェントが連携して動作します。
 *   **生成AI**: GPT-4o (OpenAI)
 *   **フレームワーク**: Streamlit
 
+## 参考
+https://arxiv.org/abs/2409.13449#
